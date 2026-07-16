@@ -1,0 +1,4 @@
+C:\Users\MAYANK KODWANI\Downloads\Practical\OnlineShoppingSystem\obj\Debug\net8.0\OnlineShoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYANK KODWANI\Downloads\Practical\OnlineShoppingSystem\obj\Debug\net8.0\OnlineShoppingSystem.AssemblyInfoInputs.cache
+C:\Users\MAYANK KODWANI\Downloads\Practical\OnlineShoppingSystem\obj\Debug\net8.0\OnlineShoppingSystem.AssemblyInfo.cs
+C:\Users\MAYANK KODWANI\Downloads\Practical\OnlineShoppingSystem\obj\Debug\net8.0\OnlineShoppingSystem.csproj.CoreCompileInputs.cache
