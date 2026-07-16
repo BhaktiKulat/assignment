@@ -1,0 +1,14 @@
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\bin\Debug\net8.0\StationeryStoreManagementSystem.exe
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\bin\Debug\net8.0\StationeryStoreManagementSystem.deps.json
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\bin\Debug\net8.0\StationeryStoreManagementSystem.runtimeconfig.json
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\bin\Debug\net8.0\StationeryStoreManagementSystem.dll
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\bin\Debug\net8.0\StationeryStoreManagementSystem.pdb
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\StationeryStoreManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\StationeryStoreManagementSystem.AssemblyInfoInputs.cache
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\StationeryStoreManagementSystem.AssemblyInfo.cs
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\StationeryStoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\StationeryStoreManagementSystem.dll
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\refint\StationeryStoreManagementSystem.dll
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\StationeryStoreManagementSystem.pdb
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\StationeryStoreManagementSystem.genruntimeconfig.cache
+C:\Users\MAYANK KODWANI\Downloads\Practical\StationeryStoreManagementSystem\obj\Debug\net8.0\ref\StationeryStoreManagementSystem.dll
