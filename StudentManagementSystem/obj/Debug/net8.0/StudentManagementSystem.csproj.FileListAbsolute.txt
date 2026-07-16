@@ -1,0 +1,14 @@
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.exe
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.deps.json
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\MAYANK KODWANI\Downloads\Practical\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll
